@@ -1,0 +1,7 @@
+.DS_Store
+*.har
+*.log
+.env
+.env.*
+node_modules/
+work/
