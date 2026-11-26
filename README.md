@@ -1,6 +1,6 @@
 # Douyin Emoji Saver
 
-[简体中文](README.zh-CN.md)
+[简体中文](README.zh-CN.md) · [Install from Greasy Fork](https://greasyfork.org/en/scripts/607412)
 
 A Tampermonkey userscript for saving stickers that Douyin has already displayed in comments and direct messages. Version **5.1.0** has a movable floating button and a compact sticker picker. The interface is in Simplified Chinese.
 
@@ -22,7 +22,7 @@ A Tampermonkey userscript for saving stickers that Douyin has already displayed 
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) in desktop Chrome.
 2. In Chrome, open Tampermonkey's extension details and turn on **Allow User Scripts** if Chrome offers that toggle. If you restrict extension site access, allow it on Douyin. [Tampermonkey permissions guide](https://www.tampermonkey.net/faq.php?locale=en&q=Q209)
-3. Open the **Raw** view of [douyin-emoji-saver.user.js](douyin-emoji-saver.user.js), or use the script's Greasy Fork **Install this script** button when available. Confirm the install in Tampermonkey.
+3. Open the [official Greasy Fork listing](https://greasyfork.org/en/scripts/607412) and click **Install this script**, then confirm the installation in Tampermonkey. Alternatively, open the **Raw** view of [douyin-emoji-saver.user.js](douyin-emoji-saver.user.js) on GitHub.
 4. Refresh [Douyin](https://www.douyin.com/), open comments or a direct-message conversation, then click the floating button. To save from the grid, click a sticker to preview it or select several items and use **批量保存** (Batch save).
 
 See [Installation and troubleshooting](docs/INSTALL.md) for folder authorization, ZIP export, and local installation.

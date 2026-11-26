@@ -1,6 +1,6 @@
 # 抖音表情包提取助手
 
-[English](README.md)
+[English](README.md) · [通过 Greasy Fork 安装](https://greasyfork.org/zh-CN/scripts/607412)
 
 适用于桌面 Chrome 和 Tampermonkey 的油猴脚本，用于保存抖音网页评论和私信中已显示的表情。**5.1.0** 提供可拖动的悬浮球与紧凑的表情网格。
 
@@ -21,7 +21,7 @@
 ## 安装
 
 1. 在 Chrome 中安装 [Tampermonkey](https://www.tampermonkey.net/) 扩展。若扩展详情提供 **允许用户脚本** 开关，请开启。若限制了扩展的网站访问权限，请允许访问抖音。 [Tampermonkey 权限说明](https://www.tampermonkey.net/faq.php?locale=en&q=Q209)
-2. 在 GitHub 打开 [douyin-emoji-saver.user.js](douyin-emoji-saver.user.js) 的 **Raw** 链接，或在 Greasy Fork 发布页点击 **安装此脚本**，再在 Tampermonkey 中确认。
+2. 打开 [Greasy Fork 官方发布页](https://greasyfork.org/zh-CN/scripts/607412)，点击 **安装此脚本**，再在 Tampermonkey 中确认。也可通过 GitHub 上的 [douyin-emoji-saver.user.js](douyin-emoji-saver.user.js) 的 **Raw** 链接安装。
 3. 刷新 [抖音](https://www.douyin.com/)。打开评论或选定的私信，点击悬浮球。点击表情可放大预览，多选后可批量保存。
 
 保存授权、ZIP 下载、手动安装及故障排查见 [安装说明](docs/INSTALL.md)。
