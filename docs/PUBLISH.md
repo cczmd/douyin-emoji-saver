@@ -8,7 +8,7 @@
 ## 2. 准备 GitHub 仓库
 
 1. 创建 `douyin-emoji-saver` 仓库。可以先设为 **Private** 审阅，用 GitHub Desktop、Git 或网页上传本发布目录内的文件，保留 `assets`、`docs`、`licenses` 和 `vendor` 的结构。 [新建仓库](https://github.com/new) · [上传文件](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository)
-2. 确认项目自己的许可和公开版权名称。可按 [许可证建议](../LICENSE-PROPOSAL.md) 补充根目录许可；保留依赖声明和对应源码。
+2. 项目原创应用代码已采用 [MIT 许可证](../LICENSE)，版权署名为 cczmd。参见 [许可范围](../LICENSE-PROPOSAL.md)，保留依赖声明和对应源码。
 3. 核对公开简介和截图后，将审核通过的仓库设为公开。进入 **Releases → Draft a new release**，选择标签 `v5.1.0`，用 [更新日志](../CHANGELOG.md) 作发布说明，并附上 `douyin-emoji-saver.user.js`。检查草稿后即可发布。 [GitHub Release 指南](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)
 
 ## 3. 准备 Greasy Fork 条目
@@ -19,4 +19,4 @@
 
 ## English summary
 
-Create and verify both accounts. Prepare the `douyin-emoji-saver` repository and confirm the license of the original application code. Publish a GitHub release tagged `v5.1.0` with the complete userscript attached. Post the same file on Greasy Fork and add the bilingual description, demo screenshots, and source/notice links. Greasy Fork's listing should install the copy it hosts.
+Create and verify both accounts. Prepare the `douyin-emoji-saver` repository. The original application code is licensed under MIT; retain the third-party license notices. Publish a GitHub release tagged `v5.1.0` with the complete userscript attached. Post the same file on Greasy Fork and add the bilingual description, demo screenshots, and source/notice links. Greasy Fork's listing should install the copy it hosts.

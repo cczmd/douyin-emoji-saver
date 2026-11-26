@@ -38,6 +38,7 @@ Image fetching stays between the browser and the URLs used to serve the page's i
 - [Changelog](CHANGELOG.md)
 - [Release verification](docs/VERIFICATION.md)
 - [Third-party notices](THIRD-PARTY-NOTICES.md)
-- [Project license recommendation](LICENSE-PROPOSAL.md)
+- [MIT License](LICENSE) (original application code)
+- [Project license scope](LICENSE-PROPOSAL.md)
 
 Independent userscript for Douyin.

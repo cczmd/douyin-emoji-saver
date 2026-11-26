@@ -1,7 +1,13 @@
-# 许可证建议 / Project license recommendation
+# 项目许可范围 / Project license scope
 
-建议权利人对本项目原创应用代码采用 **MIT**，并保留第三方代码已有的许可与署名。使用 [MIT 文本模板](https://choosealicense.com/licenses/mit/) 时，将公开版权名称和年份填入仓库根目录的 `LICENSE`。在脚本元数据中如要填写项目许可，应明确适用范围，并参照 [第三方声明](THIRD-PARTY-NOTICES.md) 保留内嵌组件的许可。
+本项目权利人已确认原创应用代码采用 [MIT 许可证](LICENSE)，版权署名为 `Copyright (c) 2026 cczmd`。该授权也适用于 v5.1.0 已发布版本中属于本项目权利人的原创应用代码。
 
-本发布包提供建议，正式许可由权利人决定。脚本元数据暂未声明项目级许可。gifenc 和相关上游代码的版权声明与许可已随包附上。
+第三方代码继续适用各自的原有许可，包括 gifenc 及相关上游 MIT 声明，以及 PnnQuant 衍生代码的 MPL-2.0 条款。项目 MIT 许可不替换或改变第三方许可。详见 [第三方声明](THIRD-PARTY-NOTICES.md)、[许可文本](licenses/) 和 [对应源码](vendor/)。请保留适用的版权和许可声明。
 
-**Recommendation.** Apply MIT to the original application code after the rights holder approves the choice and supplies a public copyright name. Keep the existing license terms and notices on third-party portions. Use the [MIT template](https://choosealicense.com/licenses/mit/) for the repository-level license and document its scope if you add a userscript license key. This recommendation does not grant a project license. [Third-party notices](THIRD-PARTY-NOTICES.md)
+v5.1.0 的标签、Release、附件和脚本字节内容均保留原状。此文件及仓库根目录的 LICENSE 记录随后确认的许可授权；原始脚本的元数据未改动。
+
+The rights holder has approved the [MIT License](LICENSE) for the project's original application code, including the original application code in the existing v5.1.0 release. The copyright notice is `Copyright (c) 2026 cczmd`.
+
+Third-party portions remain subject to their applicable original licenses, including the MIT notices for gifenc and related upstream code and MPL-2.0 for the PnnQuant-derived code. The project's MIT license does not replace those terms. See [third-party notices](THIRD-PARTY-NOTICES.md), [license texts](licenses/), and [corresponding source](vendor/). Retain the applicable copyright and license notices.
+
+The v5.1.0 tag, release, assets, and script bytes are preserved. This file and the root LICENSE record the subsequent licensing decision without altering the original userscript metadata.

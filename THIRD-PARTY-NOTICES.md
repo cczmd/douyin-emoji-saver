@@ -15,4 +15,4 @@ c5dafa01dadf18171fce770e3543a55cc06e739c090ed3ae784ddce6b746d28360b4834b0fe7f688
 
 The preferred source form for the bundled encoder is available in [vendor/gifenc-1.0.3/src](vendor/gifenc-1.0.3/src) and in the [pinned npm archive](https://registry.npmjs.org/gifenc/-/gifenc-1.0.3.tgz). The historical LZW credits retain the authors' names.
 
-本脚本内嵌 gifenc 1.0.3 的未压缩发行构建。原包及上游署名、MIT 声明、PnnQuant 衍生代码的 MPL-2.0 文本与对应源码均随包提供。项目自身许可见 [许可证建议](LICENSE-PROPOSAL.md)。
+本脚本内嵌 gifenc 1.0.3 的未压缩发行构建。原包及上游署名、MIT 声明、PnnQuant 衍生代码的 MPL-2.0 文本与对应源码均随包提供。项目原创应用代码采用 [MIT 许可证](LICENSE)，具体适用范围见 [项目许可范围](LICENSE-PROPOSAL.md)。第三方部分仍适用各自原许可。

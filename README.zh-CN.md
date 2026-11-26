@@ -30,6 +30,6 @@
 
 目前验收环境为桌面 Chrome 和 Tampermonkey。识别取决于抖音网页向当前会话提供的内容及页面结构。图片转换和去重在本地浏览器完成。 [隐私政策](PRIVACY.md)
 
-[更新日志](CHANGELOG.md) · [发布验收记录](docs/VERIFICATION.md) · [第三方声明](THIRD-PARTY-NOTICES.md) · [许可证建议](LICENSE-PROPOSAL.md)
+[更新日志](CHANGELOG.md) · [发布验收记录](docs/VERIFICATION.md) · [第三方声明](THIRD-PARTY-NOTICES.md) · [MIT 许可证](LICENSE)（原创应用代码） · [许可范围](LICENSE-PROPOSAL.md)
 
 本项目是独立的抖音用户脚本。
